@@ -1,2 +1,2 @@
 # UIColor-Lerp
-Adds the ability to smooth the transition of two UIColors through linear interpolation
+Adds the ability to smoothly transition between two UIColors through linear interpolation.
